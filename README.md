@@ -22,6 +22,8 @@ APP_URL=http://127.0.0.1:8000
 
 DB_HOST=localhost
 ```
+*Also remember to copy the `.env.example` file to `.env`*
+
 4. Run serve.
 ```bash
 $ php artisan serve
